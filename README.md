@@ -1,7 +1,8 @@
 Speech Recognition with Viterbi-Decoding
 ===============
 
-Implementation of **Viterbi decoding** for the number recognition<br><br>
+Implementation of **Viterbi decoding** for the number recognition<br>
+Term-project for Machine Learning, Korea University<br>
 
 * Transition probabilty was pre-trained by **Baum-Welch algorithm**
 * Observation probability is defined by **Gaussian Mixture Model**
